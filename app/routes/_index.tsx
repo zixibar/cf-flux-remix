@@ -33,7 +33,7 @@ export default function Index() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-purple-600 via-pink-500 to-red-500">
       <div className="bg-white bg-opacity-10 backdrop-filter backdrop-blur-lg rounded-3xl shadow-2xl p-10">
-        <h1 className="text-4xl font-extrabold text-white mb-8 text-center">CF Flux Remix</h1>
+        <h1 className="text-4xl font-extrabold text-white mb-8 text-center">在线AI图片生成</h1>
         <nav>
           <ul className="space-y-4">
             <li>
